@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/clas/!svn/ver/3507/trunk/simulation/ParticleSimulator/example
+END
+test.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/clas/!svn/ver/3507/trunk/simulation/ParticleSimulator/example/test.cxx
+END
+FindROOT.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/clas/!svn/ver/3507/trunk/simulation/ParticleSimulator/example/FindROOT.cmake
+END
+read.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/clas/!svn/ver/3507/trunk/simulation/ParticleSimulator/example/read.cxx
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/clas/!svn/ver/3507/trunk/simulation/ParticleSimulator/example/CMakeLists.txt
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/clas/!svn/ver/3507/trunk/simulation/ParticleSimulator/example/Makefile
+END

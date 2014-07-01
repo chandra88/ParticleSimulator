@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/clas/!svn/ver/3507/trunk/simulation/ParticleSimulator/BOSClass
+END
+TAGRLinkDef.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/clas/!svn/ver/3507/trunk/simulation/ParticleSimulator/BOSClass/TAGRLinkDef.h
+END
+MCTKLinkDef.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/clas/!svn/ver/3507/trunk/simulation/ParticleSimulator/BOSClass/MCTKLinkDef.h
+END
+TAGR.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/clas/!svn/ver/3507/trunk/simulation/ParticleSimulator/BOSClass/TAGR.h
+END
+MCTK.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/clas/!svn/ver/3507/trunk/simulation/ParticleSimulator/BOSClass/MCTK.h
+END
+HEADLinkDef.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/clas/!svn/ver/3507/trunk/simulation/ParticleSimulator/BOSClass/HEADLinkDef.h
+END
+HEAD.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/clas/!svn/ver/3507/trunk/simulation/ParticleSimulator/BOSClass/HEAD.h
+END
+TAGR.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/clas/!svn/ver/3507/trunk/simulation/ParticleSimulator/BOSClass/TAGR.cxx
+END
+MCTK.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/clas/!svn/ver/3507/trunk/simulation/ParticleSimulator/BOSClass/MCTK.cxx
+END
+MCVXLinkDef.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/clas/!svn/ver/3507/trunk/simulation/ParticleSimulator/BOSClass/MCVXLinkDef.h
+END
+HEAD.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/clas/!svn/ver/3507/trunk/simulation/ParticleSimulator/BOSClass/HEAD.cxx
+END
+MCVX.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/clas/!svn/ver/3507/trunk/simulation/ParticleSimulator/BOSClass/MCVX.h
+END
+FindROOT.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/clas/!svn/ver/3507/trunk/simulation/ParticleSimulator/BOSClass/FindROOT.cmake
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/clas/!svn/ver/3507/trunk/simulation/ParticleSimulator/BOSClass/Makefile
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/clas/!svn/ver/3507/trunk/simulation/ParticleSimulator/BOSClass/CMakeLists.txt
+END
+MCVX.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/clas/!svn/ver/3507/trunk/simulation/ParticleSimulator/BOSClass/MCVX.cxx
+END
