@@ -1,10 +1,9 @@
 //***************************************
 //*	Author: Chandra Shekhar Sah     *
 //*	ParticleSimulator version 1     *
-//*          ODU, March 2012	        *
+//*          March 2012	        *
 //***************************************
 //* base class to store single particle properties
-//* This class hold one particle
 
 
 #ifndef __Particle__

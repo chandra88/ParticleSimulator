@@ -1,7 +1,7 @@
 //*************************************
 //*    Author: Chandra Shekhar Sah    *
 //*    ParticleSimulator version 1    *
-//*          ODU, March 2012	      *
+//*          March 2012	      *
 //*************************************
 //* Class to generate photon beam, derived from Particle Class.
 /*! This class is for photon beam. It generates the photon beam of desired energy distribution

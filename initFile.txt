@@ -1,0 +1,3 @@
+title: ParticleSimulator
+description: Code to generate photoproduction events.
+ exclude:  Html  arxiv  CMakeFiles  .svn

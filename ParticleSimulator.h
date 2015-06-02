@@ -1,7 +1,7 @@
 //*************************************
 //*    Author: Chandra Shekhar Sah    *
 //*    ParticleSimulator version 1    *
-//*          ODU, March 2012          *
+//*          March 2012          *
 //*************************************
 //* Main class for particle simulator
 
@@ -35,7 +35,7 @@ class ParticleSimulator {
 
 	public:
 		ParticleSimulator();
-		virtual ~ParticleSimulator()	{ }
+		virtual ~ParticleSimulator()	{ delete rand; delete tFun; }
 
 		void setSeed(int se)				{ seed = se; }
 		void init();

@@ -1,7 +1,7 @@
 //************************************
 //*   Author: Chandra Shekhar Sah    *
 //*   ParticleSimulator version 1    *
-//*          ODU, March 2012         *
+//*          March 2012         *
 //************************************
 //* Class to hold the resonanaces, inharited from Particle.
 /*! This class holds a resonance which decay to stable particles.

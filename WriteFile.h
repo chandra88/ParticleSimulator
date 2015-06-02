@@ -1,7 +1,7 @@
 //***************************************
 //*	Author: Chandra Shekhar Sah     *
 //*	ParticleSimulator version 1     *
-//*          ODU, March 2012	        *
+//*          March 2012	        *
 //***************************************
 //class for output to root or bos file. It recognizes the file format by file extension.
 
